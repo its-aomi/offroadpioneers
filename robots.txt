@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /wp-includes/
 Disallow: /wp-login.php
 Disallow: /wp-signup.php
 Disallow: /xmlrpc.php

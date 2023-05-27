@@ -4,6 +4,7 @@ Disallow: /wp-login.php
 Disallow: /wp-signup.php
 Disallow: /xmlrpc.php
 Disallow: /wp-json/
+Disallow: /gadgets-accessories/
 Disallow: */trackback/
 Disallow: */feed/
 Disallow: */comments/

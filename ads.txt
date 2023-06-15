@@ -1679,14 +1679,14 @@ telaria.com, rnl7f-vyklc, RESELLER, 1a4e959a1b50034a
 telaria.com, vtrdn-ysjam, DIRECT, 1a4e959a1b50034a
 themediagrid.com, 1J5DKW, DIRECT, 35d5010d7789b49d
 themediagrid.com, 2RT75Y, DIRECT, 35d5010d7789b49d
-themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49dforpub-5902083285302779
+themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
 themediagrid.com, 7WYFHG, DIRECT, 35d5010d7789b49d
 themediagrid.com, 9GKBJC, RESELLER, 35d5010d7789b49d
 themediagrid.com, BG415O, DIRECT, 35d5010d7789b49d
 themediagrid.com, IH9PA4, DIRECT, 35d5010d7789b49d
 themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
-themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49dforpub-6396844742497208
+themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
 themediagrid.com, RYIDPE, DIRECT, 35d5010d7789b49d
 themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d
 themoneytizer.com, 21982, DIRECT
@@ -3563,14 +3563,14 @@ telaria.com, rnl7f-vyklc, RESELLER, 1a4e959a1b50034a
 telaria.com, vtrdn-ysjam, DIRECT, 1a4e959a1b50034a
 themediagrid.com, 1J5DKW, DIRECT, 35d5010d7789b49d
 themediagrid.com, 2RT75Y, DIRECT, 35d5010d7789b49d
-themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49dforpub-5902083285302779
+themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
 themediagrid.com, 7WYFHG, DIRECT, 35d5010d7789b49d
 themediagrid.com, 9GKBJC, RESELLER, 35d5010d7789b49d
 themediagrid.com, BG415O, DIRECT, 35d5010d7789b49d
 themediagrid.com, IH9PA4, DIRECT, 35d5010d7789b49d
 themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
-themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49dforpub-6396844742497208
+themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
 themediagrid.com, RYIDPE, DIRECT, 35d5010d7789b49d
 themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d
 themoneytizer.com, 21982, DIRECT

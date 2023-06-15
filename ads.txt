@@ -3767,3 +3767,39 @@ yieldmo.com, 3224262582806192157, RESELLER
 yieldnexus.com, 96204, RESELLER
 yldbt.com, 5b522cc167f6b300b89dc6d3, RESELLER, cd184cb30abaabb5
 zeta.com, 533, RESELLER
+themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
+themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 4524, RESELLER, 060d053dcf45cbf3
+opera.com, pub8150359888640, DIRECT, 55a0c5fd61378de3
+iqzone.com, IQ190, RESELLER
+sharethrough.com, b18911a2, RESELLER, d53b998a7bd4ecd2
+emxdgt.com, 2014, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1863, RESELLER
+freewheel.tv, 1220655, RESELLER
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
+contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
+imds.tv, 82423, RESELLER, ae6c32151e71f19d
+adform.com, 3027, RESELLER
+freewheel.tv, 770449, DIRECT
+freewheel.tv, 774673, RESELLER
+freewheel.tv, 893873, RESELLER
+yahoo.com, 59702, RESELLER
+admanmedia.com, 722, RESELLER
+rubiconproject.com, 25386, DIRECT, 0bfd66d529a55807
+smilewanted.com, 2864, RESELLER
+visiblemeasures.com, 1051, RESELLER
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156439, RESELLER
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER
+triplelift.com, 12456, RESELLER, 6c33edb13117fd86
+yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
+freewheel.tv, 741650, RESELLER
+indexexchange.com, 190500, RESELLER
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
+yieldmo.com, 3277087470771970058, RESELLER
